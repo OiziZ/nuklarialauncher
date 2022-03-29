@@ -220,12 +220,13 @@
                 },
                 {
                     "id": "site.nuklaria:nuklapack:2022-03-22",
-                    "name": "Ressource Pack Nuklariz",
+                    "name": "Ressource Pack Nuklaria",
                     "type": "File",
                     "artifact": {
-                        "size": 7340032,
+                        "size": 7792846,
+                        "MD5": "40DD6105B43AECE6A7BC1F79DBC6AAA1",
                         "path": "resourcepacks/pack.zip",
-                        "url": "https://www.dropbox.com/s/qe00sxu0f0ap3sg/pack.zip?dl=0"
+                        "url": "https://www.dropbox.com/s/vap511mk14slut2/pack.zip?dl=0"
                     }
                 },
                 {
@@ -233,8 +234,9 @@
                     "name": "Optifine",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 50936,
-                        "url": "https://www.dropbox.com/s/dxp917t4kcl9tug/OptiFine_1.18.1_HD_U_H6.jar?dl=0"
+                        "size": 6519086,
+                        "MD5": "6E278566D062D6532F3D69ED642EFA58",
+                        "url": "https://www.dropbox.com/s/h2ouobpwisqgvzz/OptiFine_1.18.1_HD_U_H6.jar?dl=0"
                     }
                 }
             ]
