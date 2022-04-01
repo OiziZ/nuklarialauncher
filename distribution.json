@@ -12,10 +12,10 @@
     "servers": [
         {
             "id": "Nuklaria Faction 1.18.1",
-            "name": "Serveur principal Nuklaria",
+            "name": "Shaders & Texture avancées !",
             "description": "",
             "icon": "https://nuklaria.site/storage/img/newnobg.png",
-            "version": "1.0.4",
+            "version": "1.0.0",
             "address": "play.nuklaria.site",
             "minecraftVersion": "1.18.1",
             "discord": {
